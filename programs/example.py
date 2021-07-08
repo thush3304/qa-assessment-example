@@ -15,7 +15,6 @@
     
 def endsPy(input):
     word = input.lower()
-    return word.endswith("py")==True
-    
+    return word.endswith("py")
 
     
