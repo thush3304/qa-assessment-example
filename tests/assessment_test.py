@@ -1,5 +1,5 @@
 import pytest
-from Code import example
+from programs import example
 
 def test_endsPy():
     assert example.endsPy("ilovepy") == True
